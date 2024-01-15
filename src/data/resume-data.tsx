@@ -28,8 +28,8 @@ export const RESUME_DATA = {
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. At the age of 13, I worked on products that amounted to over £150,000 in revenue.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://shahzain.bento.me",
+  avatarUrl: "https://creatorspace.imgix.net/users/cloyqxygl00ctm7010rja8hzd/4wA6Y2zOSHWEKdqo-icon.png?w=300&h=300",
+  personalWebsiteUrl: "https://bento.me/shahzain",
   contact: {
     email: "shahzainarshad06@gmail.com",
     tel: "+447869772009",
@@ -47,6 +47,12 @@ export const RESUME_DATA = {
     ],
   },
   education: [
+    {
+      school: "Manchester Metropolitan University",
+      degree: "MSc Digital and Technology Solutions (Software Engineering)",
+      start: "2024",
+      end: "2028",
+    },
     {
       school: "Loxford School of Science and Technology",
       degree: "A-Levels in Computer Science, Physics and Maths",
