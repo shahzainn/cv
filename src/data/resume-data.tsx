@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "London, United Kingdom, GMT",
   locationLink: "https://www.google.com/maps/place/London",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Full Stack Engineer",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. At the age of 13, I worked on products that amounted to over £150,000 in revenue.",
   avatarUrl: "https://creatorspace.imgix.net/users/cloyqxygl00ctm7010rja8hzd/4wA6Y2zOSHWEKdqo-icon.png?w=300&h=300",
@@ -92,7 +92,29 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2022",
       description:
-        "Launched a design consultancy at the age of 13, working with large businesses and contributing to thousands of product sales. Employed and co-ordinated a global team of 6.",
+        "Launched a design consultancy with an S&P500 business at the age of 13, working with large businesses and contributing to thousands of product sales. Employed and co-ordinated a global team of 6.",
+    },
+    {
+      company: "RFI Global",
+      link: "https://rfi.global/",
+      badges: ["Work Experience"],
+      title: "Manager",
+      logo: JojoMobileLogo,
+      start: "2023",
+      end: "2023",
+      description:
+        "Shadowed the Head of Finance at a globally-renowned Data-as-a-Service firm, assisting them with the day-to-day running and operation of a global tech firm.",
+    },
+    {
+      company: "British Airways",
+      link: "https://www.britishairways.com/travel/home/public/en_gb",
+      badges: ["Work Experience"],
+      title: "Data Scientist",
+      logo: JojoMobileLogo,
+      start: "2023",
+      end: "2023",
+      description:
+        "Created a dataset from user reviews and analysed common trends that allowed me to view the weaknesses for customers. Presented my findings to decision-makers.",
     },
   ],
   skills: [
@@ -140,6 +162,37 @@ export const RESUME_DATA = {
       logo: JarockiMeLogo,
       link: {
         label: "",
+        href: "",
+      },
+    },
+    {
+      title: "Blackboard",
+      techStack: [
+        "Side Project",
+        "JavaScript",
+        "TailwindCSS",
+        "Socket.IO",
+        "Realtime Data Processing",
+      ],
+      description: "A chat app built for students in schools, providing a safe and secure portal for student communication.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "blackboard",
+        href: "",
+      },
+    },
+    {
+      title: "Railworks",
+      techStack: [
+        "Side Project",
+        "Luau",
+        "Architecture",
+        "Community Interaction",
+      ],
+      description: "A set of intuitive transportation simulation tools built for the ROBLOX community, changing the quality standard for transport games.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "blackboard",
         href: "",
       },
     },
