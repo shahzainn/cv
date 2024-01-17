@@ -108,13 +108,24 @@ export const RESUME_DATA = {
     {
       company: "British Airways",
       link: "https://www.britishairways.com/travel/home/public/en_gb",
-      badges: ["Work Experience"],
+      badges: ["Virtual Work Experience"],
       title: "Data Scientist",
       logo: JojoMobileLogo,
       start: "2023",
       end: "2023",
       description:
-        "Created a dataset from user reviews and analysed common trends that allowed me to view the weaknesses for customers. Presented my findings to decision-makers.",
+        "Created a dataset from user reviews and analysed common trends that allowed me to view the weaknesses for customers. Presented my findings to decision-makers. Experience sourced via The Forage.",
+    },
+    {
+      company: "Cognizant",
+      link: "https://www.cognizant.com/uk/en",
+      badges: ["Virtual Work Experience"],
+      title: "Project Manager",
+      logo: JojoMobileLogo,
+      start: "2022",
+      end: "2022",
+      description:
+        "Analysed the different methodologies and consolidated learning on the agile methodology, studying examples of scrums and conflict resolution in a work environment. Experience sourced via The Forage.",
     },
   ],
   skills: [
@@ -193,6 +204,21 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "blackboard",
+        href: "",
+      },
+    },
+    {
+      title: "Avion",
+      techStack: [
+        "Side Project",
+        "Arduino",
+        "Electronics",
+        "Hardware",
+      ],
+      description: "Planning and designing a low cost ($100) Boeing 737 MCP for flight simulators. Currently sourcing parts and creating prototypes, using Arduino to handle interaction.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Avion",
         href: "",
       },
     },
