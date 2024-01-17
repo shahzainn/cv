@@ -54,10 +54,16 @@ export const RESUME_DATA = {
       end: "2028",
     },
     {
-      school: "Loxford School of Science and Technology",
+      school: "Loxford School",
       degree: "A-Levels in Computer Science, Physics and Maths",
       start: "2022",
       end: "2024",
+    },
+    {
+      school: "Loxford School",
+      degree: "10 GCSE A*-A",
+      start: "2017",
+      end: "2022",
     },
   ],
   work: [
