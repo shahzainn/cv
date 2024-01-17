@@ -70,7 +70,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: "2028",
       description:
-        "Building technology solutions alongside FinTech industry experts. Design, install and test new and existing systems.",
+        "Building technology solutions alongside FinTech industry experts. Designing, installing and testing new and existing systems.",
     },
     {
       company: "GetLearning.ai",
@@ -103,7 +103,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2023",
       description:
-        "Shadowed the Head of Finance at a globally-renowned Data-as-a-Service firm, assisting them with the day-to-day running and operation of a global tech firm.",
+        "Shadowed the Director of Finance at a globally-renowned Data-as-a-Service firm, assisting them with the day-to-day running and operation of a global tech firm.",
     },
     {
       company: "British Airways",
