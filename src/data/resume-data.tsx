@@ -157,7 +157,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "kyromark",
-        href: "https://simplylearning-ad8e8.web.app/",
+        href: "https://kyromark.netlify.app/",
       },
     },
     {
