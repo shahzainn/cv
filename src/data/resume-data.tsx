@@ -80,7 +80,7 @@ export const RESUME_DATA = {
     },
     {
       company: "KyroMark",
-      link: "https://getlearning.ai/",
+      link: "https://kyromark.netlify.app/",
       badges: ["Startup"],
       title: "Founder",
       logo: ClevertechLogo,
